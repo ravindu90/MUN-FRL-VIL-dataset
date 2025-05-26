@@ -65,7 +65,7 @@ Quick Tests on State-of-the-art Algorithms
    :header: Algorithm, Git repo with munfrl launch files
    :widths: 10,30
 
-   VINS-Fusion , `https://github.com/sendtooscar/VINS-Fusion-gpu`_
+   VINS-Fusion , <https://github.com/sendtooscar/VINS-Fusion-gpu>
    FAST-LIO2 , `https://github.com/sendtooscar/FAST_LIO.git`_
    ALOAM , `https://github.com/sendtooscar/A-LOAM`_ 
    SVO2 ,  `https://github.com/sendtooscar/SVO2`_ 
