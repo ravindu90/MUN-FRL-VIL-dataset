@@ -66,9 +66,9 @@ Quick Tests on State-of-the-art Algorithms
    :widths: 10,30
 
    VINS-Fusion , https://github.com/sendtooscar/VINS-Fusion-gpu
-   FAST-LIO2 , `https://github.com/sendtooscar/FAST_LIO.git`_
-   ALOAM , `https://github.com/sendtooscar/A-LOAM`_ 
-   SVO2 ,  `https://github.com/sendtooscar/SVO2`_ 
+   FAST-LIO2 , https://github.com/sendtooscar/FAST_LIO.git
+   ALOAM , https://github.com/sendtooscar/A-LOAM
+   SVO2 ,  https://github.com/sendtooscar/SVO2 
    FAST-LVIO2 , work-in-progres
 
 
