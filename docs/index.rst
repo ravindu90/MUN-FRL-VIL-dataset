@@ -65,9 +65,11 @@ Quick Tests on State-of-the-art Algorithms
    :header: Algorithm, Git repo with munfrl launch files
    :widths: 10,30
 
-   VINS-Fusion `[link] <https://github.com/HKUST-Aerial-Robotics/VINS-Fusion>`_ , work-in-progres
-   FAST-LVIO `[link] <https://github.com/hku-mars/FAST-LIVO>`_ , work-in-progres
-   LVI-SAM  `[link] <https://github.com/TixiaoShan/LVI-SAM>`_ , work-in-progres
+   VINS-Fusion , `https://github.com/sendtooscar/VINS-Fusion-gpu`_
+   FAST-LIO2 , `https://github.com/sendtooscar/FAST_LIO.git`_
+   ALOAM , `https://github.com/sendtooscar/A-LOAM`_ 
+   SVO2 ,  `https://github.com/sendtooscar/SVO2`_ 
+   FAST-LVIO2 , work-in-progres
 
 
 Lisence
