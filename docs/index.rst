@@ -62,7 +62,7 @@ Downloads
 Quick Tests on State-of-the-art Algorithms
 ------------------------------------------
 .. csv-table:: 
-   :header: Algorithm, Configuration files
+   :header: Algorithm, Git repo with munfrl launch files
    :widths: 10,30
 
    VINS-Fusion `[link] <https://github.com/HKUST-Aerial-Robotics/VINS-Fusion>`_ , work-in-progres
