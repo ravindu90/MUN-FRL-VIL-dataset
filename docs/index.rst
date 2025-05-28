@@ -79,7 +79,7 @@ CCECE 2025 Workshop Material
 
    Data bag,Bell412_dataset1_benchmarking_bag, 6.00 GB, `link <https://drive.google.com/file/d/1dxZcWZ_J7QEXkDjaHdePMfO5him3EZuf/view>`_
    Data bag, Lighthouse_benchmarking_bag, 3.55 GB, `link <https://drive.google.com/file/d/15MovyJSUhj0D2cgWNklvQTru7j6JfUwb/view>`_
-   Foxglove layout,  Fox glove raw data visualization layout, 5.00 kb, `link <https://drive.google.com/file/d/15MovyJSUhj0D2cgWNklvQTru7j6JfUwb/view>`_
+   Foxglove layout,  Fox glove raw data visualization layout, 5 KB, `link <https://drive.google.com/file/d/15MovyJSUhj0D2cgWNklvQTru7j6JfUwb/view>`_
    Foxglove layout,  Fox glove processed data visualization layout, 15 KB, `link <https://drive.google.com/file/d/19L6q4tPR29Cot9sCYrmtOkYf3Ro_E6f8/view>`_
    Colab Notebook, Landing zone tutorial notebook link (Google Colab), online, `link <https://drive.google.com/file/d/10qk9eo0EzPJp9uYMYXzeYj8xzNVGNQD9/view>`_
    Colab Notebook, Radar Super resolution tutorial notebook link (Google Colab), online, `link <https://drive.google.com/file/d/1rFruABddIvH_jon4MNT2riCC1w3PU-89/view>`_
