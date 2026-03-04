@@ -17,7 +17,7 @@ MUN-FRL: Aerial Visual-Inertial-LiDAR Odometry and Mapping Dataset
    
 This webpage presents the visual-inertial-LiDAR (VIL) datasets collected by an interchagable payload unit atttached to 
 a Bell 412 Advanced Systems Research Helicopter (ASRA) helicoptor and a DJI M600 hexacoptor drone.
-The payload unit consists of two monocular global shutter cameras, a 3D LiDAR, an IMU, real-time kinematic (RTK) enabled 
+The payload unit consists of two monocular/RGB global shutter cameras, a 3D LiDAR, an IMU, real-time kinematic (RTK) enabled 
 global navigation system (GNSS) receiver and a Jetson AGX Xavier GPU as the processing unit.
 The two cameras, IMU, LiDAR and GNSS receivers are hardware time-synchronized.
 
