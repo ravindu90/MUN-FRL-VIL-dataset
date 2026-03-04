@@ -89,6 +89,35 @@ CCECE 2025 Workshop Material
 
 Lisence
 -------
+The **MUN-FRL Dataset** (including all LiDAR pointclouds, GPS/IMU logs, and RGB images) is licensed under a `Creative Commons Attribution 4.0 International (CC BY 4.0) <https://creativecommons.org/licenses/by/4.0/>`_ License. 
+
+.. note::
+   While the IJRR publication is distributed under a Non-Commercial (CC BY-NC 4.0) license, the **underlying raw data and calibration files provided here are explicitly licensed under CC BY 4.0** to support both academic and commercial research in aerial autonomy.
+
+Under this license, you are free to:
+* **Share** — copy and redistribute the material in any medium or format.
+* **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
+**The only requirement is that you give appropriate credit by citing the original paper.**
+
+Citation
+--------
+
+If you use this dataset or the associated tools in your research, please cite the following publication:
+
+.. code-block:: bibtex
+
+   @article{thalagala2024munfrl,
+     title={MUN-FRL: A Visual-Inertial-LiDAR Dataset for Aerial Autonomous Navigation and Mapping},
+     author={Thalagala, Ravindu G and De Silva, Oscar, Mann, George KI and Gosine, Raymond G},
+     journal={The International Journal of Robotics Research},
+     volume={43},
+     number={12},
+     pages={1853--1866},
+     year={2024},
+     publisher={SAGE Publications},
+     doi={10.1177/02783649241238318}
+   }
 
 .. toctree::
    :maxdepth: 2
