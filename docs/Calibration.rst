@@ -10,9 +10,9 @@ the hardware measurements and schematic of the coordinate system transformations
 
 Calibration datasets
 ----------------------------
-The following datasets provide the raw data used to compute the extrinsic and intrinsic parameters for the Bell 412 datasets.
+The following datasets provide the raw data used to compute the extrinsic and intrinsic parameters for the Bell 412 seqences.
 
-.. list-table:: Bell 412 Calibration Data
+.. list-table:: 
    :widths: 30 70
    :header-rows: 1
 
