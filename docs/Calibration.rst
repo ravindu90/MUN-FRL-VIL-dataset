@@ -8,6 +8,39 @@ the hardware measurements and schematic of the coordinate system transformations
 .. image:: /images/tf.svg
    :width: 49%
 
+Calibration datasets
+----------------------------
+The following datasets provide the raw data used to compute the extrinsic and intrinsic parameters for the Bell 412 datasets.
+
+.. list-table:: Bell 412 Calibration Data
+   :widths: 30 70
+   :header-rows: 1
+
+   * - Dataset Type
+     - Download Link
+   * - **Down-facing Camera** (Intrinsics)
+     - `Google Drive Folder <https://drive.google.com/drive/folders/1pJNCq15vsOUnff5wMYKAWgCjiDaWDqXM?usp=sharing>`_
+   * - **Front-facing Camera** (Intrinsics)
+     - `Google Drive Folder <https://drive.google.com/drive/folders/1IoHBQ5MUdzUzwFNntslbvHv_K3IwuYDW?usp=sharing>`_
+   * - **IMU + Down-facing Camera** (Extrinsics)
+     - `Download File <https://drive.google.com/file/d/1nOH9lzuz5oSh4aGuZv6TUw7zf-_mTwz2/view?usp=sharing>`_
+   * - **IMU + Front-facing Camera** (Extrinsics)
+     - `Download File <https://drive.google.com/file/d/1mIOt4IDnGuwTuVgKvmhKzxwGah5ReIVd/view?usp=sharing>`_
+   * - **LiDAR + Down-facing Camera** (Extrinsics)
+     - `Google Drive Folder <https://drive.google.com/drive/folders/1xUG8HLlKMLoxFRPjKxE4I-vI1O6d-MZI?usp=sharing>`_
+   * - **LiDAR + Front-facing Camera** (Extrinsics)
+     - `Google Drive Folder <https://drive.google.com/drive/folders/1vA1zss1RAvS3YwoSqxbQJbaLUDk7Wgx_?usp=sharing>`_
+
+.. note::
+   Calibration data for DJI M600 sequences are not available.
+
+Methodology & Tools
+-------------------
+
+* **LiDAR + Camera:** These datasets include time-synchronized ``.pcd`` point clouds and ``.jpg`` images.
+* **IMU + Camera:** Calibration was performed using `Kalibr <https://github.com/ethz-asl/kalibr/wiki/camera-imu-calibration>`_ with the `AprilTag target <https://github.com/ethz-asl/kalibr/wiki/downloads>`_.
+* **Camera Intrinsics:** Calculated using a 70mm square checkerboard (6x8 target) via the `VINS-Fusion Camera Calibrator <https://github.com/HKUST-Aerial-Robotics/VINS-Fusion/tree/master/camera_models>`_.
+
 Camera Intrinsic Calibration
 ----------------------------
 The intrinsic parameters of the cameras, such as the camera model, camera matrix [K], and distortion parameters, 
