@@ -21,6 +21,12 @@ The payload unit consists of two monocular/RGB global shutter cameras, a 3D LiDA
 global navigation system (GNSS) receiver and a Jetson AGX Xavier GPU as the processing unit.
 The two cameras, IMU, LiDAR and GNSS receivers are hardware time-synchronized.
 
+Latest Updates
+--------------
+
+* **[March 2026]** **New Calibration Data:** Added comprehensive intrinsic and extrinsic calibration datasets for the Bell 412 platform. See the :doc:`Calibration` page.
+* **[March 2026]** **License Update:** The dataset files are now explicitly licensed under **CC BY 4.0** to facilitate both academic and commercial use. See :ref:`license-section`.
+
 Available Data
 --------------
 Images
