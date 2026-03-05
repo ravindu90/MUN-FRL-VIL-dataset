@@ -24,8 +24,8 @@ The two cameras, IMU, LiDAR and GNSS receivers are hardware time-synchronized.
 Latest Updates
 --------------
 
-* **[March 2026]** **New Calibration Data:** Added comprehensive intrinsic and extrinsic calibration datasets for the Bell 412 platform. See the :doc:`Calibration` page.
-* **[March 2026]** **License Update:** The dataset files are now explicitly licensed under **CC BY 4.0** to facilitate both academic and commercial use. See :ref:`license-section`.
+* **[March 2026]** **New Calibration Data:** Added intrinsic and extrinsic calibration datasets for the Bell 412 data sequences. See the :doc:`Calibration` page.
+* **[March 2026]** **License Update:** The dataset files are now explicitly licensed under **CC BY 4.0** to facilitate both academic and commercial use. See :ref:`Lisence`.
 
 Available Data
 --------------
