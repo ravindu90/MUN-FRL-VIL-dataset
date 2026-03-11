@@ -38,7 +38,7 @@ Methodology & Tools
 -------------------
 
 * **LiDAR + Camera:** These datasets include time-synchronized ``.pcd`` point clouds and ``.jpg`` images.
-* **IMU + Camera:** Calibration was performed using `Kalibr <https://github.com/ethz-asl/kalibr/wiki/camera-imu-calibration>`_ with `AprilTag target <https://drive.google.com/file/d/14dY7z8pDb2iEBdveTviDXsoi5H9AaQP1/view>`_ using the parameters listed `here <https://github.com/ethz-asl/kalibr/wiki/calibration-targets>`_.
+* **IMU + Camera:** Calibration was performed using `Kalibr <https://github.com/ethz-asl/kalibr/wiki/camera-imu-calibration>`_ with `Aprilgrid 6x6 0.8x0.8m (A0 page) <https://github.com/ethz-asl/kalibr/wiki/downloads>`_ The Aprilgrid parameters are listed `here <https://github.com/ethz-asl/kalibr/wiki/calibration-targets>`_.
 * **Camera Intrinsics:** The checkerboard used was a 70mm square-size checkerboard of 8x11. However, the input target size for the `VINS-Fusion Camera Calibration Tool <https://github.com/HKUST-Aerial-Robotics/VINS-Fusion/tree/master/camera_models>`_ was 6x8.
 
 Camera Intrinsic Calibration
